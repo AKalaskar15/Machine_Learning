@@ -1,0 +1,1 @@
+Heroku Application Link: https://diabetes-pred-flask.herokuapp.com/
